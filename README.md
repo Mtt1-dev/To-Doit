@@ -1,4 +1,4 @@
-# To-Do Family Control (Tauri)
+# To-Doit
 
 ## 🚧 Project Status: In Development 🚧
 This project is currently under active development. Features, design, and functionality are subject to change.
